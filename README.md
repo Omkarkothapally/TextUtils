@@ -1,3 +1,26 @@
+# TextUtils
+## Overview
+TextUtils is a simple yet powerful text manipulation tool designed to perform a variety of text operations efficiently. Whether you're looking to count words, convert text to uppercase or lowercase, remove extra spaces, TextUtils provides an intuitive interface to accomplish these tasks with ease. It's a great utility for anyone who frequently works with text data, including developers, writers, and students.
+
+## Features
+- **Word and Character Count**: Quickly count the number of words and characters in a given text.
+- **Text Transformation**:
+  
+   - Convert text to **Uppercase**.
+   - Convert text to **Lowercase**.
+   - **Capitalize** each word in the text.
+- **Text Formatting**:
+  
+   - **Remove Extra Spaces**: Eliminate unnecessary spaces from the text.
+   - **Clear Text**: Quickly clear the input text field.
+   - **Copy to Clipboard**: Easily copy the manipulated text to your clipboard with a single click.
+- **Dark Mode**: Toggle between light and dark themes for a comfortable user experience.
+## Technologies Used
+- **Frontend**: HTML, CSS, JavaScript (or relevant frontend frameworks if used, such as React, Angular, etc.)
+- **Backend**: Not applicable if it's a frontend-only project. If there's backend involvement, mention it here.
+- **Version Control**: Git for version management
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
