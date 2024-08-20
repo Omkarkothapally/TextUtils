@@ -16,7 +16,7 @@ TextUtils is a simple yet powerful text manipulation tool designed to perform a 
    - **Copy to Clipboard**: Easily copy the manipulated text to your clipboard with a single click.
 - **Dark Mode**: Toggle between light and dark themes for a comfortable user experience.
 ## Technologies Used
-- **Frontend**: HTML, CSS, JavaScript (or relevant frontend frameworks if used, such as React, Angular, etc.)
+- **Frontend**: HTML, CSS, JavaScript , React.Js.
 - **Backend**: Not applicable if it's a frontend-only project. If there's backend involvement, mention it here.
 - **Version Control**: Git for version management
 
